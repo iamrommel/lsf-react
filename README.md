@@ -30,7 +30,6 @@ npm install lsf-react --save
 
 ## Usage
 
-__EXPLAIN USAGE HERE__
 
 ```
 var LsfReact = require('lsf-react');
@@ -40,11 +39,11 @@ var LsfReact = require('lsf-react');
 
 ### Properties
 
-* __DOCUMENT PROPERTIES HERE__
+* TODO
 
 ### Notes
 
-__ADDITIONAL USAGE NOTES__
+* TODO
 
 
 ## Development (`src`, `lib` and the build process)
@@ -55,7 +54,7 @@ To build, watch and serve the examples (which will also watch the component sour
 
 ## License
 
-__PUT LICENSE HERE__
+Use if as you want
 
 Copyright (c) 2016 Rommel Manalo.
 
