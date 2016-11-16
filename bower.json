@@ -1,0 +1,29 @@
+{
+  "name": "lsf-react",
+  "version": "0.0.0",
+  "description": "lsf-react",
+  "main": "dist/lsf-react.min.js",
+  "homepage": "https://github.com/iamrommel/lsf-react",
+  "authors": [
+    "Rommel Manalo"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
