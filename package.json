@@ -8,7 +8,7 @@
     "dev": "webpack --progress --colors --watch --mode=dev",
     "test": "mocha --compilers js:babel-core/register --colors ./test/*.spec.js",
     "test:watch": "mocha --compilers js:babel-core/register --colors -w ./test/*.spec.js",
-    "publish": "npm version patch && npm publish"
+    "publish": "npm version patch"
   },
   "devDependencies": {
     "babel": "6.3.13",
