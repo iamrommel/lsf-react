@@ -44,5 +44,9 @@
   "bugs": {
     "url": "https://github.com/iamrommel/lsf-react/issues"
   },
-  "homepage": "https://github.com/iamrommel/lsf-react#readme"
+  "homepage": "https://github.com/iamrommel/lsf-react#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
 }
