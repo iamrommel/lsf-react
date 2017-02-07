@@ -5,4 +5,5 @@ export default class Library {
   get name() {
     return this._name;
   }
+
 }
