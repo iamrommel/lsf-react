@@ -1,4 +1,8 @@
 {
   "presets": ["es2015"],
-  "plugins": ["babel-plugin-add-module-exports", "transform-react-jsx"]
+  "plugins": [
+    "babel-plugin-add-module-exports",
+    "transform-react-jsx",
+    "transform-class-properties"
+  ]
 }

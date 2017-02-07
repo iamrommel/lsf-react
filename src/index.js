@@ -1,14 +1,14 @@
 export class Library {
     constructor() {
-      this._name = 'Library';
+        this._name = 'Library';
     }
 
     get name() {
-      return this._name;
+        return this._name;
     }
 
-    log() {
-      console.log('this is shit men');
+    static log = () => {
+        console.log('this is shit men');
     }
 
 }
