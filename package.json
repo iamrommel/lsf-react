@@ -1,6 +1,6 @@
 {
   "name": "lsf-react",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "LSF react components and utilities",
   "main": "lib/lsf-react.js",
   "scripts": {
