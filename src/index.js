@@ -7,7 +7,7 @@ export class Library {
       return this._name;
     }
 
-    static log() {
+    log() {
       console.log('this is shit men');
     }
 
