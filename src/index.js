@@ -6,4 +6,9 @@ export default class Library {
     return this._name;
   }
 
+  static log() {
+    console.log('this is shit men');
+  }
+
 }
+
