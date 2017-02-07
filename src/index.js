@@ -1,4 +1,4 @@
-export default class Library {
+export  class Library {
   constructor() {
     this._name = 'Library';
   }
